@@ -1,3 +1,6 @@
 .history/
 .vscode/
-Code_Cpp/*.exe
+Code_Cpp/*
+!Code_Cpp/*.cpp
+!Code_Cpp/*.py
+!Code_Cpp/*.md

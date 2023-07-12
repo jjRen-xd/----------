@@ -1,5 +1,5 @@
 // P15, 计算x的n次方
-#include<iostream>
+#include <iostream>
 
 int num = 0;
 
